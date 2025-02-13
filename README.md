@@ -79,10 +79,3 @@ PropConnect-RealEstate is a modern real estate platform built using the MERN (Mo
 4. Push to the branch: `git push origin feature-branch`
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License.
-
-## Contact
-
-For any inquiries, contact [your email].

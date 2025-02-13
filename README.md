@@ -1,4 +1,4 @@
-# PropConnect-RealEstate
+# DreamNexus
 
 PropConnect-RealEstate is a modern real estate platform built using the MERN (MongoDB, Express.js, React, Node.js) stack. It enables users to browse, list, and manage real estate properties efficiently.
 

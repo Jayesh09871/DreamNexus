@@ -42,6 +42,16 @@ export default function Header() {
               About Us
             </li>
           </Link>
+          <Link to="/Buy">
+          <li className="hidden sm:inline text-slate-700 hover:underline">
+              Buy
+            </li>
+          </Link>
+          <Link to="/Rent">
+          <li className="hidden sm:inline text-slate-700 hover:underline">
+             Rent
+            </li>
+          </Link>
           <Link to="/profile">
             <img
               src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"

@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import { FaSearch } from "react-icons/fa";
-
+import Buy from "../house/Buy";
 import React from "react";
 
 const handleSubmit = (e) => {
@@ -42,7 +42,7 @@ export default function Header() {
               About Us
             </li>
           </Link>
-          <Link to="/Buy">
+          <Link to="/buy">
           <li className="hidden sm:inline text-slate-700 hover:underline">
               Buy
             </li>

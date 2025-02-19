@@ -24,6 +24,36 @@ const houses = [
     name: "Swimming pool Villa",
     price: 600000,
     image: "https://blog.lohono.com/wp-content/uploads/2024/03/MEG07501-HDR-683x1024.jpg"
+  },
+  {
+    id: 5,
+    name: "Luxury Beachfront Villas",
+    price: 500000,
+    image: "https://cloudfront.wheretostay.com/images/collections/headers/WTS-Collections-Beachfront-Banner-192.jpg"
+  },
+  {
+    id: 6,
+    name: "Modern Beach Villa",
+    price: 300000,
+    image: "https://architecturesstyle.b-cdn.net/wp-content/uploads/2021/01/modern-beach-house-3.jpg"
+  },
+  {
+    id: 7,
+    name: "Big Villa",
+    price: 200000,
+    image: "https://d3oo9u3p09egds.cloudfront.net/filters:format(webp)/rental_property/colina-villa-h/01_Facade__10_.jpeg"
+  },
+  {
+    id: 8,
+    name: "Swimming pool Villa",
+    price: 600000,
+    image: "https://blog.lohono.com/wp-content/uploads/2024/03/MEG07501-HDR-683x1024.jpg"
+  },
+  {
+    id: 9,
+    name: "Swimming pool Villa",
+    price: 600000,
+    image: "https://blog.lohono.com/wp-content/uploads/2024/03/MEG07501-HDR-683x1024.jpg"
   }
 ];
 

@@ -4,12 +4,14 @@ import Footer from './components/Footer'
 import {Routes, Route } from "react-router-dom";
 import Buy from './house/Buy';
 import Rent from './house/Rent';
+import Home from './pages/Home';
 
 export default function App() {
   return (
     // <Router>
     <div>
     <Header/>
+    <Home/>
      <Routes>
         <Route path="/buy" element={<Buy/>} />
         <Route path="/Rent" element={<Rent/>} />

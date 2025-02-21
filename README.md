@@ -83,7 +83,7 @@ server/
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/real-estate-platform.git
+git clone [https://github.com/yourusername/real-estate-platform.git](https://github.com/Jayesh09871/DreamNexus)
 cd real-estate-platform
 ```
 

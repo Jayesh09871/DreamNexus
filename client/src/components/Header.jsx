@@ -11,7 +11,7 @@ export default function Header() {
   return (
     <header className="bg-white-200 shadow-md ">
       <div className="flex justify-between items-center max-w-7xl ml-[2rem] mx-auto px-3">
-        <Link to="/">
+        <Link to="/b">
           <h1 className="font-bold text-sm sm:text-xl flex flex-wrap">
           <img src='https://www.logomaker.com/api/main/images/1j+ojlxEOMkX9Wyqfhe43D6kh...6HrhRJnhbEwXs1M3EMoAJtlyMkjvVr...Pk6PExevg9C3ktKMcs8'   width="120px" height="1px" ></img>
           </h1>
@@ -32,7 +32,7 @@ export default function Header() {
           </button>
         </form>
         <ul className="flex gap-4">
-          <Link to="/home">
+          <Link to="/">
             <li className="hidden sm:inline  text-slate-700 hover:underline">
               Home
             </li>

@@ -11,8 +11,8 @@ export default function App() {
     // <Router>
     <div>
     <Header/>
-    <Home/>
      <Routes>
+     <Route path="/home" element={<Home/>} />
         <Route path="/buy" element={<Buy/>} />
         <Route path="/Rent" element={<Rent/>} />
       </Routes>
